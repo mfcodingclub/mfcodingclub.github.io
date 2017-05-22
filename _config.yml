@@ -8,10 +8,10 @@ url: "https://mfcodingclub.github.io/" # the base hostname & protocol for your s
 author:
 street_address:
 city:
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+state:
+zip_code:
+country:
+phone: 
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
